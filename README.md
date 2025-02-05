@@ -1,2 +1,6 @@
 # Face_Detection
-Detect faces in an image
+It Detects faces in an image
+
+just download it and run below
+
+"Python script.py"
